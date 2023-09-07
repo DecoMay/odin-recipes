@@ -1,12 +1,13 @@
 body {
     background-color: gray;
+    font-family: 'Arial';
 }
 
-#title {
+h1 {
     text-align: center;
     background-color: white;
 }
 
-ul, a {
+ul, ol, a {
     color: rgb(47, 30, 30);
 }
