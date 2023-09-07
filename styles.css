@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+#title {
+    text-align: center;
+    background-color: white;
+}
+
+ul, a {
+    color: rgb(47, 30, 30);
+}
